@@ -1,5 +1,7 @@
 # MSSQL-Veritabani
 
+Sıfırdan veritabanı oluşturma ve veritabanı sorguları.
+
 1-) VİEW KULLANIMI
 
 2-) STORED PROCEDURE KULLANIMI
